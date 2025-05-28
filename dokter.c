@@ -2,6 +2,8 @@
 #include <string.h>
 #include "dokter.h"
 
+//
+
 // Menambahkan dokter baru ke daftar
 void tambah_dokter(struct Dokter *dokter, int *jumlah_dokter) {
     if (*jumlah_dokter >= DOKTER_MAKS) {
