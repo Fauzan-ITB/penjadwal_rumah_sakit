@@ -2,7 +2,7 @@
 #include <string.h>
 #include "dokter.h"
 
-//testestessadas
+//testestessadasasd;dhjs
 
 // Menambahkan dokter baru ke daftar
 void tambah_dokter(struct Dokter *dokter, int *jumlah_dokter) {
